@@ -18,24 +18,24 @@
 * How to display in HTML data from a MySQL database
 
 ## Resourses 
-[What is a Web Framework?](https://intranet.hbtn.io/rltoken/iWopX7mh5JZI0BtpNmMOCA)
-[A Minimal Application](https://intranet.hbtn.io/rltoken/aY1qkYlIbCDDULBN6nJNYA)
-[Routing (except “HTTP Methods”)](https://intranet.hbtn.io/rltoken/bAqYEpI4Ph-zLU7EM8iXjg)
-[Rendering Templates](https://intranet.hbtn.io/rltoken/mpA3GC0bX8WOHO15xUL2Yw)
-[Synopsis](https://intranet.hbtn.io/rltoken/-JZxrxnDnOID141U1qDcew)
-[Variables](https://intranet.hbtn.io/rltoken/-qwqxJ6YyQ7Z9JvvPIE1AA)
-[Comments](https://intranet.hbtn.io/rltoken/TsdwbqCk1utlpeOhc5eUFg)
-[Whitespace Control](https://intranet.hbtn.io/rltoken/NR5WFn7I6qUTh-b70Od69Q)
-[List of Control Structures (read up to “Call”)](https://intranet.hbtn.io/rltoken/pyvwBzYKgoDeNQ6_QIwUsw)
-[Flask](https://intranet.hbtn.io/rltoken/k2C-4UmlYXgA6oMgO7fLgg)
-[Jinja](https://intranet.hbtn.io/rltoken/fid5cMJKYMaRJqL60PlUew)
+* [What is a Web Framework?](https://intranet.hbtn.io/rltoken/iWopX7mh5JZI0BtpNmMOCA)
+* [A Minimal Application](https://intranet.hbtn.io/rltoken/aY1qkYlIbCDDULBN6nJNYA)
+* [Routing (except “HTTP Methods”)](https://intranet.hbtn.io/rltoken/bAqYEpI4Ph-zLU7EM8iXjg)
+* [Rendering Templates](https://intranet.hbtn.io/rltoken/mpA3GC0bX8WOHO15xUL2Yw)
+* [Synopsis](https://intranet.hbtn.io/rltoken/-JZxrxnDnOID141U1qDcew)
+* [Variables](https://intranet.hbtn.io/rltoken/-qwqxJ6YyQ7Z9JvvPIE1AA)
+* [Comments](https://intranet.hbtn.io/rltoken/TsdwbqCk1utlpeOhc5eUFg)
+* [Whitespace Control](https://intranet.hbtn.io/rltoken/NR5WFn7I6qUTh-b70Od69Q)
+* [List of Control Structures (read up to “Call”)](https://intranet.hbtn.io/rltoken/pyvwBzYKgoDeNQ6_QIwUsw)
+* [Flask](https://intranet.hbtn.io/rltoken/k2C-4UmlYXgA6oMgO7fLgg)
+* [Jinja](https://intranet.hbtn.io/rltoken/fid5cMJKYMaRJqL60PlUew)
 
 
 ## Coding style
-- All python files are interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3) and use the [PEP 8 style (version 1.7.*)](https://github.com/PyC\QA/pycodestyle) for checking coding style
+All python files are interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3) and use the [PEP 8 style (version 1.7.*)](https://github.com/PyC\QA/pycodestyle) for checking coding style
 
 
-## Installation <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-downloads-folder-16.png">
+## Installation <img src="https://img.icons8.com/fluency/48/000000/downloads-folder--v1.png"/>
 To use, first download  this repository into your local machine by issuing the following command in your local terminal. 
 ```
 git clone https://github.com/Matilop15/AirBnB_clone_v2.git
