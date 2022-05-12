@@ -35,7 +35,7 @@
 All python files are interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3) and use the [PEP 8 style (version 1.7.*)](https://github.com/PyC\QA/pycodestyle) for checking coding style
 
 
-## Installation <img src="https://img.icons8.com/fluency/48/000000/downloads-folder--v1.png"/>
+## Installation <img src="https://img.icons8.com/fluency/30/000000/downloads-folder--v1.png"/>
 To use, first download  this repository into your local machine by issuing the following command in your local terminal. 
 ```
 git clone https://github.com/Matilop15/AirBnB_clone_v2.git
