@@ -2,8 +2,8 @@
 """
 The application listens on 0.0.0.0, port 5000.
 Routes:
-    /: Displays 'Hello HBNB!'
-    /hbnb: Displays 'HBNB'
+    - /: Displays 'Hello HBNB!'
+    - /hbnb: Displays 'HBNB'
 """
 from flask import Flask
 
