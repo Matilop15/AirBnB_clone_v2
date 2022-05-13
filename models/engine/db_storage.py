@@ -73,5 +73,5 @@ class DBStorage():
         self.__session = Session()
 
     def close(self):
-        """Json to obj"""
+        """Close method"""
         self.__session.close()
