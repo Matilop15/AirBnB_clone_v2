@@ -18,7 +18,7 @@ app = Flask(__name__)
 @app.route('/states_list', strict_slashes=False)
 def states_list():
     """
-    
+    Modify tthe body adding list of states
     """
     new_states = storage.all(State).values()
     return render_template("7-states_list.html", final_states=new_states)
